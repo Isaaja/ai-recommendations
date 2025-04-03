@@ -9,8 +9,8 @@ Aplikasi ini memberikan rekomendasi film berdasarkan kemiripan genre. Ikuti lang
 1. **Pastikan Python telah terinstal** di sistem Anda.
 2. **Unduh atau clone repository** aplikasi ini:
    ```sh
-   git clone https://github.com/username/movie-recommendation-app.git
-   cd movie-recommendation-app
+   git clone https://github.com/Isaaja/ai-recommendations.git
+   cd ai-recommendations
    ```
 3. **Instal semua dependensi** yang dibutuhkan:
    ```sh
@@ -62,7 +62,7 @@ Jika mengalami kendala:
 
 - Pastikan semua dependensi telah terinstal dengan benar.
 - Periksa apakah file `movie_data.csv` tersedia dan memiliki format yang benar.
-- Jika masih mengalami masalah, hubungi tim pengembang melalui [email/kontak].
+- Jika masih mengalami masalah, hubungi tim pengembang melalui [isaiantmaulana2004@gmail.com].
 
 ---
 
